@@ -1,0 +1,17 @@
+@media (max-width: 768px) {
+    .logo-header {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .menu{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .item-menu, .cabecalho-banco {
+        scale: 130%;
+        padding: 15%;
+    }
+}
